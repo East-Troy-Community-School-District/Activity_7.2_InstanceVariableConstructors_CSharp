@@ -1,0 +1,7 @@
+C:\Users\Nolan Pawelski\Desktop\PersonClass\bin\Debug\PersonClass.exe.config
+C:\Users\Nolan Pawelski\Desktop\PersonClass\bin\Debug\PersonClass.exe
+C:\Users\Nolan Pawelski\Desktop\PersonClass\bin\Debug\PersonClass.pdb
+C:\Users\Nolan Pawelski\Desktop\PersonClass\obj\Debug\PersonClass.csproj.AssemblyReference.cache
+C:\Users\Nolan Pawelski\Desktop\PersonClass\obj\Debug\PersonClass.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\PersonClass\obj\Debug\PersonClass.exe
+C:\Users\Nolan Pawelski\Desktop\PersonClass\obj\Debug\PersonClass.pdb
